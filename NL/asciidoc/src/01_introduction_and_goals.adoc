@@ -26,7 +26,7 @@ Die bestaan onder ander uit
 // .Contents
 .Inhoud
 // Short description of the functional requirements, driving forces, extract (or abstract) of requirements.
-Korte beschrijven van de functionele requirements, drijvende krachten, samenvatting (of beschrijving) van de requirements.
+Korte beschrijven van de functionele requirements, drijvende krachten, uittreksel (of samenvatting) van de requirements.
 // Link to (hopefully existing) requirements documents (with version number and information where to find it).
 Verwijzing naar de (hopelijk bestaande) requirements documentatie (met versie nummer en informatie waar deze te vinden is).
 
@@ -45,7 +45,7 @@ Korte textuele beschrijving, mogelijk in use-case tabel formaat.
 Dit overzichtsdocument moet naar het requirements document verwijzen (als dat bestaat).
 
 // Keep these excerpts as short as possible. Balance readability of this document with potential redundancy w.r.t to requirements documents.
-Houd deze samenvattingen zo kort mogelijk. 
+Houd deze uittreksels zo kort mogelijk. 
 Zoek een evenwicht tussen leesbaarheid van dit document en mogelijke dubbelingen met betrekking tot het requirements document.
 
 //.Further Information
