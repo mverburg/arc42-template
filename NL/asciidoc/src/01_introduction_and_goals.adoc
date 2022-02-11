@@ -7,7 +7,7 @@ Beschrijft de relevante requirements en het krachtenveld waar software architect
 Die bestaan onder ander uit
 
 // * underlying business goals,
-* het begrijpen van de doelen van de business, 
+* het begrijpen van de achterliggende doelen van de business, 
 // * essential features, 
 * essentiele features,
 // * essential functional requirements, 
