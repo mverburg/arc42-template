@@ -1,0 +1,13 @@
+
+.Vertalingen
+
+|===
+| EN term | NL term
+
+| Abstract | Beschrijving
+| Constraints | Beperkingen
+| Excerpt(s) | Uittreksel(s)
+| Extract | Samenvatting
+| Stakeholder(s) | Belanghebbende(n)
+
+|===
