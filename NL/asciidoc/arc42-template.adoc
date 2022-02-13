@@ -37,7 +37,7 @@ include::src/about-arc42.adoc[]
 ====
 Deze versie van de template bevat hulp en uitleg.
 Het is bedoel om bekend te raken met arc42 en om de concepten te begrijpen.
-Om uw eigen sytemen te documenteren adviseren we om de _plain_ versie te gebruiken.
+Om uw eigen sytemen te documenteren adviseren we om de _kale_ versie te gebruiken.
 ====
 ****
 
