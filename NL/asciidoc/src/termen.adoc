@@ -6,8 +6,10 @@
 
 | Abstract | Beschrijving
 | Constraints | Beperkingen
+| Channel | Kanaal
 | Excerpt(s) | Uittreksel(s)
 | Extract | Samenvatting
+| Key quality goals | Meest balangrijke kwaliteits doelen
 | Stakeholder(s) | Belanghebbende(n)
 
 |===
