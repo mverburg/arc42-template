@@ -10,6 +10,7 @@
 | Channel | Kanaal
 | Excerpt(s) | Uittreksel(s)
 | Extract | Samenvatting
+| Feature | Eigenschap
 | Key quality goals | Meest balangrijke kwaliteits doelen
 | Level | Niveau
 | Stakeholder(s) | Belanghebbende(n)
